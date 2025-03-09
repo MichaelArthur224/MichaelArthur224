@@ -2,7 +2,7 @@
 I am currently pursuing my master's in Software Engineering at Cal State Fullerton 
 
 # 🧠 Currently Studying:
-Artificial Intelligence and Blockchain Technologies
+Machine Learning
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/michael-arthur-0614ba204/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contactmichaelarthur@gmail.com) 
